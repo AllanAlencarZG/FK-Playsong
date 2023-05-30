@@ -1,0 +1,10 @@
+build/*
+dist/*
+env/*
+tests/*
+nuitka build.bat
+nuitka help.txt
+fkplaysong.spec
+fkplay.spec
+build-file.spec
+build-dir.spec
